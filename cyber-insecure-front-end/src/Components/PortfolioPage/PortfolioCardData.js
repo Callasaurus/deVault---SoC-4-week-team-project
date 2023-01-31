@@ -1,16 +1,3 @@
-// import jordanGithubPlain from "../../Images/jordanGithubPlain.png";
-// import jordanGithubPopup from "../../Images/jordanGithubPopup.png";
-// import jordanPortfolioPlain from "../../Images/jordanPortfolioPlain.png";
-// import jordanPortfolioPopup from "../../Images/jordanPorfolioPopup.png";
-// import julioGithubPlain from "../../Images/julioGithubPlain.png";
-// import julioGithubPopup from "../../Images/julioGithubPopup.png";
-// import julioPortfolioPlain from "../../Images/julioPortfolioPlain.png";
-// import julioPortfolioPopup from "../../Images/julioPortfolioPopup.png";
-// import aakashGithubPlain from "../../Images/aakashGithubPlain.png";
-// import aakashGithubPopup from "../../Images/aakashGithubPopup.png";
-// import aakashPortfolioPlain from "../../Images/aakashPortfolioPlain.png";
-// import aakashPortfolioPopup from "../../Images/aakashPortfolioPopup.png";
-
 export let portfolioPageData = [
   {
     headerH2: "GitHub page",

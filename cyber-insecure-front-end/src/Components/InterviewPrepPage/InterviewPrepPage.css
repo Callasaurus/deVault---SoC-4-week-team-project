@@ -32,6 +32,7 @@ body {
 .interviewPrepPage_container-header h1 {
   border-bottom: 1px solid;
 }
+
 /* Questions Section */
 .allQuestions_container {
   display: flex;
@@ -55,7 +56,7 @@ body {
   height: 400px;
 }
 .interviewQuestionsSection h2 {
-  border-bottom: 1px solid #FBF0A2;
+  border-bottom: 1px solid #fbf0a2;
 }
 
 .questionsList {
@@ -111,9 +112,9 @@ body {
   max-width: 640px;
   background-color: #ffffff;
   border-radius: 10px;
-  border: 2px solid #FBF0A2;
+  border: 2px solid #fbf0a2;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
-      rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .close-button {
@@ -142,11 +143,11 @@ body {
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
   margin: 20px;
-  border: 1px solid #FBF0A2;
+  border: 1px solid #fbf0a2;
 }
-.cardStyling:hover{
+.cardStyling:hover {
   box-shadow: rgba(0, 0, 0, 0.3) 0px 20px 40px,
-  rgba(0, 0, 0, 0.58) 0px 15px 12px;
+    rgba(0, 0, 0, 0.58) 0px 15px 12px;
 }
 
 .question {
@@ -189,15 +190,13 @@ body {
   z-index: 0;
 }
 .react-multiple-carousel__arrow {
-border: 2px solid white !important;
-font-weight: 1000;
-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.533);
-
+  border: 2px solid white !important;
+  font-weight: 1000;
+  box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.533);
 }
 
-
 @media (max-width: 900px) {
-  .carousel{
+  .carousel {
     height: 70%;
   }
   .cardStyling h3 {
@@ -209,7 +208,7 @@ box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.533);
   .cardStyling {
     height: 267px;
   }
-  .exampleButton{
+  .exampleButton {
     width: 85%;
   }
 
@@ -223,7 +222,7 @@ box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.533);
     position: fixed;
     top: 7vh;
   }
-  
+
   .close-button {
     padding: 5px;
     border-radius: 5px;
@@ -232,5 +231,4 @@ box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.533);
     background-color: beige;
     font-size: 17px;
   }
-
 }
