@@ -101,6 +101,7 @@ npm start
 
 For the back-end: 
 ```
+npm i
 npm run dev
 ```
 
