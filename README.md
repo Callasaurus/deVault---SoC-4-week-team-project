@@ -124,7 +124,7 @@ npm run test
 
 # ⚙️ DeVault Demo
 
-[DeVault](https://dev-vault.netlify.app/login)
+[DeVault](https://yourdevault.com/)
 
 ![devaultdemo](https://user-images.githubusercontent.com/78863735/213722020-504f8b3b-1f05-4848-9e58-6b7611009110.gif)
 
