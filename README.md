@@ -37,9 +37,9 @@
 
 # ⚙️ DeVault
 
->As a junior developer, it can be hard to keep track of your professional development and job-seeking journey. If only there was an app that could allow junior >developers to do this in one space...
+>As a junior developer, it can be hard to keep track of your professional development and job-seeking journey. If only there was an app that could allow junior developers to do this in one space...
 >
->Introducing DeVault, the ultimate tool for junior developers! DeVault enables you to stay organised and maximise your job search potential. Track your job >applications, optimise your CV and your portfolio, search for specific knowledge, prepare for interviews and even take quizzes. With DeVault, you can stay on top of >your job search and put your best foot forward. Get started today and take your development career to the next level!
+>Introducing DeVault, the ultimate tool for junior developers! DeVault enables you to stay organised and maximise your job search potential. Track your job applications, optimise your CV and your portfolio, search for specific knowledge, prepare for interviews and even take quizzes. With DeVault, you can stay on top of your job search and put your best foot forward. Get started today and take your development career to the next level!
 
 
 ## ⚙️ Frontend development 
@@ -101,6 +101,7 @@ npm start
 
 For the back-end: 
 ```
+npm i
 npm run dev
 ```
 
@@ -124,7 +125,7 @@ npm run test
 
 # ⚙️ DeVault Demo
 
-[DeVault](https://dev-vault.netlify.app/login)
+[DeVault](https://yourdevault.com/)
 
 ![devaultdemo](https://user-images.githubusercontent.com/78863735/213722020-504f8b3b-1f05-4848-9e58-6b7611009110.gif)
 
