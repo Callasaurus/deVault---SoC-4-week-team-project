@@ -38,3 +38,4 @@ async function getAllApplications() {
     createApplication,
     deleteApplication
   }
+//
